@@ -1,0 +1,2 @@
+- [Project: probably_prime_ai](project_probably_prime_ai.md) — x402-monetized prime-generation API built in Go; key conventions and gotchas
+- [x402 SDK Protocol Notes](feedback_x402_sdk.md) — V2 protocol uses PAYMENT-SIGNATURE header (not X-PAYMENT); PAYMENT-REQUIRED header holds 402 data

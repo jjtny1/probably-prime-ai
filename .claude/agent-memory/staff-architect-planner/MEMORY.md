@@ -1,0 +1,2 @@
+- [Project: probably_prime_ai x402 service](project_probably_prime_ai_x402.md) — Go HTTP API selling Miller-Rabin primes, monetized via x402 on Base; first plan at `.claude/docs/2026-05-14-x402-prime-api.md`
+- [Reference: x402 Go SDK](reference_x402_go_sdk.md) — module is `github.com/x402-foundation/x402/go` (not coinbase/x402); key imports, network IDs, header/body schemas

@@ -1,0 +1,2 @@
+- [Tiered-pricing audit lesson](feedback_tiered_pricing_audit.md) — when SDK route-matching is at play, count RoutesConfig entries against plan spec, not just "tests pass".
+- [Plan body lag vs Revision History](project_plan_revision_history.md) — plan narrative may keep old URL shape; trust the most recent Revision History entry.
