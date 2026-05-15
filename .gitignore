@@ -1,6 +1,7 @@
 # Build artifacts (top-level binaries from `go build`)
 /server
 /genwallet
+/buyprime
 /probably-prime-ai
 /probably_prime_ai
 
